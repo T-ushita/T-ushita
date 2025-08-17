@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <h1 align="center">
-  Hi 👋, I'm Tushita  
+  Hi 😸, I'm Tushita  
 </h1>
 <h2 align="center">
   <span style="background: linear-gradient(90deg, #6A5ACD, #8A2BE2, #4B0082); -webkit-background-clip: text; color: transparent;">
@@ -44,13 +44,18 @@
 ---
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TushitaSingh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TushitaSingh&theme=tokyonight" />
-</p>
-
+## 🛠️ Tech Stack  
+- **Languages:** Python, SQL  
+- **Data Engineering:** Databricks, Spark  
+- **Cloud Platforms:** Azure, AWS  
+- **Other Interests:** Machine Learning, LLMs, Data Visualization
 ---
+
+## 🚀 Current Focus  
+- Building end-to-end data pipelines with **Databricks**  
+- Experimenting with **Large Language Models (LLMs)**  
+- Learning to optimize with **cloud workflows**  
+
 
 <!-- Connect -->
 ### 🌐 Connect With Me  
